@@ -1,0 +1,6 @@
+{
+    "CAPkey":"",
+    "RequestRetry": 3,
+    "Threads": 10,
+    "Debug": false
+}
